@@ -1,0 +1,128 @@
+C:\Users\sadegh_gfc\source\repos\Test\bin\Debug\Test.exe.config
+C:\Users\sadegh_gfc\source\repos\Test\bin\Debug\Test.exe
+C:\Users\sadegh_gfc\source\repos\Test\bin\Debug\Test.pdb
+C:\Users\sadegh_gfc\source\repos\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\sadegh_gfc\source\repos\Test\obj\Debug\Test.Form1.resources
+C:\Users\sadegh_gfc\source\repos\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\sadegh_gfc\source\repos\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\sadegh_gfc\source\repos\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\sadegh_gfc\source\repos\Test\obj\Debug\Test.exe
+C:\Users\sadegh_gfc\source\repos\Test\obj\Debug\Test.pdb
+E:\programing\Form\Test\bin\Debug\Test.exe.config
+E:\programing\Form\Test\obj\Debug\Test.exe
+E:\programing\Form\Test\obj\Debug\Test.pdb
+E:\programing\Form\Test\bin\Debug\Test.exe
+E:\programing\Form\Test\bin\Debug\Test.pdb
+E:\programing\Form\Test\obj\Debug\Test.Form1.resources
+E:\programing\Form\Test\obj\Debug\Test.Properties.Resources.resources
+E:\programing\Form\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\programing\Form\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\programing\Form\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\programing\Form\Action2\Test\bin\Debug\Test_action2.exe.config
+E:\programing\Form\Action2\Test\bin\Debug\Test_action2.exe
+E:\programing\Form\Action2\Test\bin\Debug\Test_action2.pdb
+E:\programing\Form\Action2\Test\obj\Debug\Test.Form1.resources
+E:\programing\Form\Action2\Test\obj\Debug\Test.Properties.Resources.resources
+E:\programing\Form\Action2\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\programing\Form\Action2\Test\obj\Debug\Test_action2.exe
+E:\programing\Form\Action2\Test\obj\Debug\Test_action2.pdb
+H:\programing\Form\Action2\Test\bin\Debug\Test_action2.exe.config
+H:\programing\Form\Action2\Test\bin\Debug\Test_action2.exe
+H:\programing\Form\Action2\Test\bin\Debug\Test_action2.pdb
+H:\programing\Form\Action2\Test\obj\Debug\Test.csprojAssemblyReference.cache
+H:\programing\Form\Action2\Test\obj\Debug\Test.Form1.resources
+H:\programing\Form\Action2\Test\obj\Debug\Test.Properties.Resources.resources
+H:\programing\Form\Action2\Test\obj\Debug\Test.csproj.GenerateResource.cache
+H:\programing\Form\Action2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+H:\programing\Form\Action2\Test\obj\Debug\Test_action2.exe
+H:\programing\Form\Action2\Test\obj\Debug\Test_action2.pdb
+E:\programing\Form\Action2\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\programing\Form calculator\Action2\Test\bin\Debug\Test_action2.exe.config
+E:\programing\Form calculator\Action2\Test\obj\Debug\Test_action2.exe
+E:\programing\Form calculator\Action2\Test\obj\Debug\Test_action2.pdb
+E:\programing\Form calculator\Action2\Test\bin\Debug\Test_action2.exe
+E:\programing\Form calculator\Action2\Test\bin\Debug\Test_action2.pdb
+E:\programing\Form calculator\Action2\Test\obj\Debug\Test.Form1.resources
+E:\programing\Form calculator\Action2\Test\obj\Debug\Test.Properties.Resources.resources
+E:\programing\Form calculator\Action2\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\programing\Form calculator\Action2\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Programing\Form calculator\Action2\Test\obj\Debug\Test.csprojAssemblyReference.cache
+F:\Programing\Form calculator\Action2\Test\obj\Debug\Test.Form1.resources
+F:\Programing\Form calculator\Action2\Test\obj\Debug\Test.Properties.Resources.resources
+F:\Programing\Form calculator\Action2\Test\obj\Debug\Test.csproj.GenerateResource.cache
+F:\Programing\Form calculator\Action2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Programing\Form calculator\Action2\Test\obj\Debug\Test_action2.exe
+F:\Programing\Form calculator\Action2\Test\obj\Debug\Test_action2.pdb
+F:\Programing\Form calculator\Action2\Test\bin\Debug\Test_action2.exe.config
+F:\Programing\Form calculator\Action2\Test\bin\Debug\Test_action2.exe
+F:\Programing\Form calculator\Action2\Test\bin\Debug\Test_action2.pdb
+E:\sadegh ehsan\Programing\Form calculator\Action2\Test\bin\Debug\Test_action2.exe.config
+E:\sadegh ehsan\Programing\Form calculator\Action2\Test\obj\Debug\Test_action2.exe
+E:\sadegh ehsan\Programing\Form calculator\Action2\Test\obj\Debug\Test_action2.pdb
+E:\sadegh ehsan\Programing\Form calculator\Action2\Test\bin\Debug\Test_action2.exe
+E:\sadegh ehsan\Programing\Form calculator\Action2\Test\bin\Debug\Test_action2.pdb
+E:\sadegh ehsan\Programing\Form calculator\Action2\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\sadegh ehsan\Programing\Form calculator\Action2\Test\obj\Debug\Test.Form1.resources
+E:\sadegh ehsan\Programing\Form calculator\Action2\Test\obj\Debug\Test.Properties.Resources.resources
+E:\sadegh ehsan\Programing\Form calculator\Action2\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Form calculator\Action2\Test\bin\Debug\Test_action2.exe.config
+C:\Form calculator\Action2\Test\obj\Debug\Test_action2.exe
+C:\Form calculator\Action2\Test\obj\Debug\Test_action2.pdb
+C:\Form calculator\Action2\Test\bin\Debug\Test_action2.exe
+C:\Form calculator\Action2\Test\bin\Debug\Test_action2.pdb
+C:\Form calculator\Action2\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Form calculator\Action2\Test\obj\Debug\Test.Form1.resources
+C:\Form calculator\Action2\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Form calculator\Action2\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\Form calculator\Action2\Test\bin\Debug\Test_action2.exe.config
+E:\Form calculator\Action2\Test\obj\Debug\Test_action2.exe
+E:\Form calculator\Action2\Test\obj\Debug\Test_action2.pdb
+H:\Form calculator\Action2\Test\bin\Debug\Test_action2.exe.config
+H:\Form calculator\Action2\Test\bin\Debug\Test_action2.exe
+H:\Form calculator\Action2\Test\bin\Debug\Test_action2.pdb
+H:\Form calculator\Action2\Test\obj\Debug\Test.Form1.resources
+H:\Form calculator\Action2\Test\obj\Debug\Test.Properties.Resources.resources
+H:\Form calculator\Action2\Test\obj\Debug\Test.csproj.GenerateResource.cache
+H:\Form calculator\Action2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+H:\Form calculator\Action2\Test\obj\Debug\Test_action2.exe
+H:\Form calculator\Action2\Test\obj\Debug\Test_action2.pdb
+K:\Form calculator\Action2\Test\bin\Debug\Test_action2.exe.config
+K:\Form calculator\Action2\Test\bin\Debug\Test_action2.exe
+K:\Form calculator\Action2\Test\bin\Debug\Test_action2.pdb
+K:\Form calculator\Action2\Test\obj\Debug\Test.csprojAssemblyReference.cache
+K:\Form calculator\Action2\Test\obj\Debug\Test.Form1.resources
+K:\Form calculator\Action2\Test\obj\Debug\Test.Properties.Resources.resources
+K:\Form calculator\Action2\Test\obj\Debug\Test.csproj.GenerateResource.cache
+K:\Form calculator\Action2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+K:\Form calculator\Action2\Test\obj\Debug\Test_action2.exe
+K:\Form calculator\Action2\Test\obj\Debug\Test_action2.pdb
+F:\Form calculator\Action2\Test\bin\Debug\Test_action2.exe.config
+F:\Form calculator\Action2\Test\bin\Debug\Test_action2.exe
+F:\Form calculator\Action2\Test\bin\Debug\Test_action2.pdb
+F:\Form calculator\Action2\Test\obj\Debug\Test.Form1.resources
+F:\Form calculator\Action2\Test\obj\Debug\Test.Properties.Resources.resources
+F:\Form calculator\Action2\Test\obj\Debug\Test.csproj.GenerateResource.cache
+F:\Form calculator\Action2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Form calculator\Action2\Test\obj\Debug\Test_action2.exe
+F:\Form calculator\Action2\Test\obj\Debug\Test_action2.pdb
+F:\Form calculator\Action2\Test\obj\Debug\Test.csprojAssemblyReference.cache
+H:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test.csprojAssemblyReference.cache
+H:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test.Form1.resources
+H:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test.Properties.Resources.resources
+H:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test.csproj.GenerateResource.cache
+H:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+H:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test_action2.exe
+H:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test_action2.pdb
+H:\Sadegh Ehsan\Form calculator\Action2\Test\bin\Debug\Test_action2.exe.config
+H:\Sadegh Ehsan\Form calculator\Action2\Test\bin\Debug\Test_action2.exe
+H:\Sadegh Ehsan\Form calculator\Action2\Test\bin\Debug\Test_action2.pdb
+G:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test.Form1.resources
+G:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test.Properties.Resources.resources
+G:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test.csproj.GenerateResource.cache
+G:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+G:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test_action2.exe
+G:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test_action2.pdb
+G:\Sadegh Ehsan\Form calculator\Action2\Test\bin\Debug\Test_action2.exe.config
+G:\Sadegh Ehsan\Form calculator\Action2\Test\bin\Debug\Test_action2.exe
+G:\Sadegh Ehsan\Form calculator\Action2\Test\bin\Debug\Test_action2.pdb
