@@ -556,6 +556,7 @@ namespace Test
         }
         private void button12_Click(object sender, EventArgs e)
         {
+            inp = "";
             this.textBox1.Text = "";
             inp += ".";
             this.textBox1.Text += inp;
@@ -928,10 +929,6 @@ namespace Test
             label1.Text = "";
         }
 
-        public void HideBorder()
-        {
-            
-        }
 
         public void ResetColor()
         {
