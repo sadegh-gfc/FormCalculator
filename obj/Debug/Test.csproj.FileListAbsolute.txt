@@ -126,3 +126,13 @@ G:\Sadegh Ehsan\Form calculator\Action2\Test\obj\Debug\Test_action2.pdb
 G:\Sadegh Ehsan\Form calculator\Action2\Test\bin\Debug\Test_action2.exe.config
 G:\Sadegh Ehsan\Form calculator\Action2\Test\bin\Debug\Test_action2.exe
 G:\Sadegh Ehsan\Form calculator\Action2\Test\bin\Debug\Test_action2.pdb
+D:\EhsanSadegh\Git hub training\FormCalculator\bin\Debug\Test_action2.exe.config
+D:\EhsanSadegh\Git hub training\FormCalculator\bin\Debug\Test_action2.exe
+D:\EhsanSadegh\Git hub training\FormCalculator\bin\Debug\Test_action2.pdb
+D:\EhsanSadegh\Git hub training\FormCalculator\obj\Debug\Test.csprojAssemblyReference.cache
+D:\EhsanSadegh\Git hub training\FormCalculator\obj\Debug\Test.Form1.resources
+D:\EhsanSadegh\Git hub training\FormCalculator\obj\Debug\Test.Properties.Resources.resources
+D:\EhsanSadegh\Git hub training\FormCalculator\obj\Debug\Test.csproj.GenerateResource.cache
+D:\EhsanSadegh\Git hub training\FormCalculator\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\EhsanSadegh\Git hub training\FormCalculator\obj\Debug\Test_action2.exe
+D:\EhsanSadegh\Git hub training\FormCalculator\obj\Debug\Test_action2.pdb
