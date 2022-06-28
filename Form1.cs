@@ -598,7 +598,7 @@ namespace Test
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
-
+            
         }
 
         private void buttonclear_all_KeyDown(object sender, KeyEventArgs e)
